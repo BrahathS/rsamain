@@ -11,8 +11,7 @@ public class menu {
         Scanner scanner = new Scanner(System.in); // Create a scanner object to read user input from the console
 
         while (true) {
-            System.out.println("\nIS53012C: Security and Encryption (2022-23) MINI Project " +
-                    "by brahath-SHET, umar SULTAN, aerhan SRIRANGAN\nRSA Menu:");
+            System.out.println("\n RSA Menu : );
             System.out.println("1. Q1 Generate RSA key pair");
             System.out.println("2. Q2 Encrypt");
             System.out.println("3. Q3 Decrypt");
